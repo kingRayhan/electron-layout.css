@@ -88,3 +88,20 @@ Classess
 | `.mb-80` | `margin-bottom: 80px !important` |
 | `.mb-90` | `margin-bottom: 90px !important` |
 | `.mb-10`0 | ` margin-bottom: 100px !important` |
+
+
+#### Margin left
+
+| Class Name | Css declaration |
+|---|---|
+| `.ml-0 `| `margin-left: 0 !important` |
+| `.ml-10` | `margin-left: 10px !important` |
+| `.ml-20` | `margin-left: 20px !important` |
+| `.ml-30` | `margin-left: 30px !important` |
+| `.ml-40` | `margin-left: 40px !important` |
+| `.ml-50` | `margin-left: 50px !important` |
+| `.ml-60` | `margin-left: 60px !important` |
+| `.ml-70` | `margin-left: 70px !important` |
+| `.ml-80` | `margin-left: 80px !important` |
+| `.ml-90` | `margin-left: 90px !important` |
+| `.ml-10`0 | ` margin-left: 100px !important` |

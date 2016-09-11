@@ -22,7 +22,7 @@ Classess
 }
 ```
 
-### <i class="icon-refresh"></i> Grid classes
+### Grid classes
 
 <dl>
     <dt>.electron-col-*</dt>
@@ -39,4 +39,10 @@ Classess
 ## Helper classes
 
 ### Margins
+
+> **Note:**
+
+> - Full access to **Google Drive** or **Dropbox** is required to be able to import any document in StackEdit. Permission restrictions can be configured in the settings.
+> - Imported documents are downloaded in your browser and are not transmitted to a server.
+> - If you experience problems saving your documents on Google Drive, check and optionally disable browser extensions, such as Disconnect.
 

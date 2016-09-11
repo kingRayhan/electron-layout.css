@@ -43,7 +43,7 @@ Classess
 ## Text 
 
 | Class Name | Works | Css declaration |
-|---|---|
+|---|---| --- |
 | `.text-center `| Make text centered | ` { text-align: center !important; }` |
 
 

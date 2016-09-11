@@ -22,7 +22,7 @@ Classess
 }
 ```
 
-### Grid classes
+### <i class="icon-refresh"></i> Grid classes
 
 <dl>
     <dt>.electron-col-*</dt>
@@ -34,3 +34,9 @@ Classess
     <dt>.electron-col-m-*</dt>
     <dd>Grid class for mobile and large screen <br><u>Works when screen size is bigger than 600px</u></dd>
 </dl>
+
+
+## Helper classes
+
+### Margins
+

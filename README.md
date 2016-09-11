@@ -54,7 +54,7 @@ Classess
 | `.mt-70` | `margin-top: 70px !important` |
 | `.mt-80` | `margin-top: 80px !important` |
 | `.mt-90` | `margin-top: 90px !important` |
-| `.mt-10`0 | ` margin-top: 100px !important` |
+| `.mt-10` | ` margin-top: 100px !important` |
 
 #### Margin right
 
@@ -70,7 +70,7 @@ Classess
 | `.mr-70` | `margin-right: 70px !important` |
 | `.mr-80` | `margin-right: 80px !important` |
 | `.mr-90` | `margin-right: 90px !important` |
-| `.mr-10`0 | ` margin-right: 100px !important` |
+| `.mr-10` | ` margin-right: 100px !important` |
 
 
 #### Margin bottom
@@ -87,7 +87,7 @@ Classess
 | `.mb-70` | `margin-bottom: 70px !important` |
 | `.mb-80` | `margin-bottom: 80px !important` |
 | `.mb-90` | `margin-bottom: 90px !important` |
-| `.mb-10`0 | ` margin-bottom: 100px !important` |
+| `.mb-10` | ` margin-bottom: 100px !important` |
 
 
 #### Margin left
@@ -104,4 +104,4 @@ Classess
 | `.ml-70` | `margin-left: 70px !important` |
 | `.ml-80` | `margin-left: 80px !important` |
 | `.ml-90` | `margin-left: 90px !important` |
-| `.ml-10`0 | ` margin-left: 100px !important` |
+| `.ml-10` | ` margin-left: 100px !important` |

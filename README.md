@@ -22,7 +22,7 @@ Classess
 }
 ```
 
-### Grid classes
+### Grid system
 
 <dl>
     <dt>.electron-col-*</dt>
@@ -34,6 +34,21 @@ Classess
     <dt>.electron-col-m-*</dt>
     <dd>Grid class for mobile and large screen <br><u>Works when screen size is bigger than 600px</u></dd>
 </dl>
+
+#### Media queries
+```css
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) { ... }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { ... }
+```
 
 
 # Helper classes

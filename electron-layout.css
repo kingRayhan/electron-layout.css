@@ -255,69 +255,80 @@
 /**
  * border
  */
-.border{
-  border: 2px solid #000;
+.border-1{
+  border: 1px solid;
 }
-
-.border-right-1{
-	border-right: 1px solid;
+.border-2{
+  border: 1px solid;
 }
-.border-right-2{
-	border-right: 2px solid;
+.border-3{
+  border: 3px solid;
 }
-.border-right-3{
-	border-right: 3px solid;
+.border-4{
+  border: 4px solid;
 }
-.border-right-4{
-	border-right: 4px solid;
+.border-5{
+  border: 5px solid;
 }
-.border-right-5{
-	border-right: 5px solid;
+.br-1{
+    border-right: 1px solid;
 }
-.border-left-1{
-	border-left: 1px solid;
+.br-2{
+    border-right: 2px solid;
 }
-.border-left-2{
-	border-left: 2px solid;
+.br-3{
+    border-right: 3px solid;
 }
-.border-left-3{
-	border-left: 3px solid;
+.br-4{
+    border-right: 4px solid;
 }
-.border-left-4{
-	border-left: 4px solid;
+.br-5{
+    border-right: 5px solid;
 }
-.border-left-5{
-	border-left: 5px solid;
+.bl-1{
+    border-left: 1px solid;
 }
-.border-top-1{
-	border-top: 1px solid;
+.bl-2{
+    border-left: 2px solid;
 }
-.border-top-2{
-	border-top: 2px solid;
+.bl-3{
+    border-left: 3px solid;
 }
-.border-top-3{
-	border-top: 3px solid;
+.bl-4{
+    border-left: 4px solid;
 }
-.border-top-4{
-	border-top: 4px solid;
+.bl-5{
+    border-left: 5px solid;
 }
-.border-top-5{
-	border-top: 5px solid;
+.bt-1{
+    border-top: 1px solid;
 }
-.border-bottom-1{
-	border-bottom: 1px solid;
+.bt-2{
+    border-top: 2px solid;
 }
-.border-bottom-2{
-	border-bottom: 2px solid;
+.bt-3{
+    border-top: 3px solid;
 }
-.border-bottom-3{
-	border-bottom: 3px solid;
+.bt-4{
+    border-top: 4px solid;
 }
-.border-bottom-4{
-	border-bottom: 4px solid;
+.bt-5{
+    border-top: 5px solid;
 }
-.border-bottom-5{
-	border-bottom: 5px solid;
+.bm-1{
+    border-bottom: 1px solid;
+}
+.bm-2{
+    border-bottom: 2px solid;
+}
+.bm-3{
+    border-bottom: 3px solid;
+}
+.bm-4{
+    border-bottom: 4px solid;
+}
+.bm-5{
+    border-bottom: 5px solid;
 }
 
 /**

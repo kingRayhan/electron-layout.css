@@ -383,7 +383,9 @@ ul.linear-list li{
 .text-light{
 	font-weight: light;
 }
-
+.text-bold{
+    font-weight:bold;
+}
 
 /**
  *  Paddings

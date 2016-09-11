@@ -11,3 +11,12 @@ Classess
   display: table;
 }
 ```
+
+```
+.electron-row:before,
+.electron-row:after{
+  display: table;
+  content: " ";
+  clear: both;
+}
+```

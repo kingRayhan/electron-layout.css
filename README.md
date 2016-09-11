@@ -38,8 +38,6 @@ Classess
 
 # Helper classes
 
-
-
 ## Text 
 
 | Class Name | Works | Css declaration |
@@ -49,7 +47,38 @@ Classess
 | `.text-left `| Aligns the text to the left | ` { text-align: left !important; }` |
 
 
+## Border
 
+
+| Class Name | Works | Css declaration |
+|---|---| --- |
+| `.border-1`| 1px around border | ` { border: 1px solid; }` |
+| `.border-2`| 2px around border | ` { border: 2px solid; }` |
+| `.border-3`| 3px around border | ` { border: 3px solid; }` |
+| `.border-4`| 4px around border | ` { border: 4px solid; }` |
+| `.border-5`| 5px around border | ` { border: 5px solid; }` |
+| `.border-5`| 5px around border | ` { border: 5px solid; }` |
+| `.br-1`| 1px right border | ` { border-right: 1px solid; }` |
+| `.br-2`| 2px right border | ` { border-right: 2px solid; }` |
+| `.br-3`| 3px right border | ` { border-right: 3px solid; }` |
+| `.br-4`| 4px right border | ` { border-right: 4px solid; }` |
+| `.br-5`| 5px right border | ` { border-right: 5px solid; }` |
+| `.bl-1`| 1px left border | ` { border-left: 1px solid; }` |
+| `.bl-2`| 2px left border | ` { border-left: 2px solid; }` |
+| `.bl-3`| 3px left border | ` { border-left: 3px solid; }` |
+| `.bl-4`| 4px left border | ` { border-left: 4px solid; }` |
+| `.bl-5`| 5px left border | ` { border-left: 5px solid; }` |
+| `.bl-5`| 5px left border | ` { border-left: 5px solid; }` |
+| `.bb-1`| 1px bottom border | ` { border-bottom: 1px solid; }` |
+| `.bb-2`| 2px bottom border | ` { border-bottom: 2px solid; }` |
+| `.bb-3`| 3px bottom border | ` { border-bottom: 3px solid; }` |
+| `.bb-4`| 4px bottom border | ` { border-bottom: 4px solid; }` |
+| `.bb-5`| 5px bottom border | ` { border-bottom: 5px solid; }` |
+| `.bt-1`| 1px top border | ` { border-top: 1px solid; }` |
+| `.bt-2`| 2px top border | ` { border-top: 2px solid; }` |
+| `.bt-3`| 3px top border | ` { border-top: 3px solid; }` |
+| `.bt-4`| 4px top border | ` { border-top: 4px solid; }` |
+| `.bt-5`| 5px top border | ` { border-top: 5px solid; }` |
 
 
 ## Margins

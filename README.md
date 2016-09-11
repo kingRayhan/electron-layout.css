@@ -40,7 +40,7 @@ Classess
 
 ## Margins
 
-##### Margin top
+#### Margin top
 
 | Class Name | Css declaration |
 |---|---|
@@ -55,3 +55,19 @@ Classess
 | `.mt-80` | `margin-top: 80px !important` |
 | `.mt-90` | `margin-top: 90px !important` |
 | `.mt-10`0 | ` margin-top: 100px !important` |
+
+#### Margin right
+
+| Class Name | Css declaration |
+|---|---|
+| `.mr-0 `| `margin-right: 0 !important` |
+| `.mr-10` | `margin-right: 10px !important` |
+| `.mr-20` | `margin-right: 20px !important` |
+| `.mr-30` | `margin-right: 30px !important` |
+| `.mr-40` | `margin-right: 40px !important` |
+| `.mr-50` | `margin-right: 50px !important` |
+| `.mr-60` | `margin-right: 60px !important` |
+| `.mr-70` | `margin-right: 70px !important` |
+| `.mr-80` | `margin-right: 80px !important` |
+| `.mr-90` | `margin-right: 90px !important` |
+| `.mr-10`0 | ` margin-right: 100px !important` |

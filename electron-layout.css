@@ -380,11 +380,14 @@ ul.linear-list li{
 .text-right{
 	text-align: right;
 }
+.text-left{
+	text-align: left;
+}
 .text-light{
 	font-weight: light;
 }
 .text-bold{
-    font-weight:bold;
+    font-weight: bold;
 }
 
 /**

@@ -41,10 +41,9 @@ Classess
     <thead>
         <tr>
             <th></th>
-            <th> Extra small devices <small>Phones (&lt;768px)</small> </th>
-            <th> Small devices <small>Tablets (≥768px)</small> </th>
-            <th> Medium devices <small>Desktops (≥992px)</small> </th>
-            <th> Large devices <small>Desktops (≥1200px)</small> </th>
+            <th> Large and medium screen <small> (<b>screen</b> ≥ 778px)</small> </th>
+            <th> Tab screen <small> (778px ≥  <b>screen</b> ≥ 600px)</small> </th>
+            <th> Mobile screen <small> (<b>screen</b> ≥ 600px)</small> </th>
         </tr>
     </thead>
     <tbody>

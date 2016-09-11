@@ -5,7 +5,7 @@
 #### CDN
 
 ```
-https://86dc0ef7231c5ac75503adbdcb2678bc13ae2357.googledrive.com/host/0B3lveM8kbyfGN1BGNXJrMzBKOG8/
+https://cdn.rawgit.com/kingRayhan/electron-layout.css/master/electron-layout.min.css
 ```
 
 

@@ -42,9 +42,11 @@ Classess
 
 | Class Name | Works | Css declaration |
 |---|---| --- |
-| `.text-center `| Make text centered | ` { text-align: center !important; }` |
-| `.text-right `| Aligns the text to the right | ` { text-align: right !important; }` |
-| `.text-left `| Aligns the text to the left | ` { text-align: left !important; }` |
+| `.text-center `| Make text centered | `{ text-align: center !important; }` |
+| `.text-right `| Aligns the text to the right | `{ text-align: right !important; }` |
+| `.text-left `| Aligns the text to the left | `{ text-align: left !important; }` |
+| `.text-bold `| Make text bold | `{ font-weight: bold !important;  }` |
+| `.text-light `| Make text lighter | `{ font-weight: light !important;  }`  |
 
 
 ## Border

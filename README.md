@@ -23,8 +23,7 @@ Classess
 
 ### Grid classes
 
-**electron-col-***  - grid class for desktop and large screen
+**electron-col-***  - grid class for desktop and large screen [Works when screen size is bigger than **778px**]
+**electron-col-t-***  - grid class for tab and medium screen [Works when screen size is bigger than **600px** and smaller than **778px**]
 
-**electron-col-t-***  - grid class for tab and medium screen
-
-**electron-col-m-***  - grid class for mobile and large screen
+**electron-col-m-***  - grid class for mobile and large screen [Works when screen size is bigger than **600px**]

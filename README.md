@@ -12,7 +12,7 @@ Classess
 }
 ```
 
-```
+```css
 .electron-row:before,
 .electron-row:after{
   display: table;
@@ -20,3 +20,7 @@ Classess
   clear: both;
 }
 ```
+
+### Grid classes
+
+**electron-col-***   

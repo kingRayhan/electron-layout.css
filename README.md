@@ -38,6 +38,21 @@ Classess
 
 # Helper classes
 
+
+
+## Text 
+
+| Class Name | Works | Css declaration |
+|---|---|
+| `.text-center `| Make text centered | ```css .text-center{
+  text-align: center !important;
+}
+``` |
+
+
+
+
+
 ## Margins
 
 #### Margin top

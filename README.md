@@ -24,7 +24,7 @@ Classess
 ### Grid classes
 
 <dl>
-    <dt>`.electron-col-*`</dt>
+    <dt>.electron-col-*</dt>
     <dd>Grid class for desktop and large screen <br><u>Works when screen size is bigger than 778px</u></dd>
 
     <dt>.electron-col-t-*</dt>

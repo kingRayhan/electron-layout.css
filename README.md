@@ -46,8 +46,10 @@ Classess
             <th> Mobile screen <small> (<b>screen</b> ≥ 600px)</small> </th>
         </tr>
     </thead>
+
     <tbody>
         <tr>
+            <th></th>
             <th class="text-nowrap" scope="row">Grid behavior</th>
             <td>Horizontal at all times</td>
             <td colspan="3">Collapsed to start, horizontal above breakpoints</td>

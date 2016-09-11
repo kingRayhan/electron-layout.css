@@ -25,12 +25,11 @@ Classess
 
 <dl>
     <dt>.electron-col-*</dt>
-    <dd>Grid class for desktop and large screen [Works when screen size is bigger than 778px]</dd>
-    <dd>Grid class for desktop and large screen [Works when screen size is bigger than 778px]</dd>
+    <dd>Grid class for desktop and large screen <br>_Works when screen size is bigger than 778px_</dd>
 
     <dt>.electron-col-t-*</dt>
-    <dd>Grid class for tab and medium screen [Works when screen size is bigger than 600px and smaller than 778px]</dd>
+    <dd>Grid class for tab and medium screen <br>_Works when screen size is bigger than 600px and smaller than 778px_</dd>
 
     <dt>.electron-col-m-*</dt>
-    <dd>Grid class for mobile and large screen [Works when screen size is bigger than 600px]</dd>
+    <dd>Grid class for mobile and large screen <br>_Works when screen size is bigger than 600px_</dd>
 </dl>

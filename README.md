@@ -105,3 +105,72 @@ Classess
 | `.ml-80` | `margin-left: 80px !important` |
 | `.ml-90` | `margin-left: 90px !important` |
 | `.ml-10` | ` margin-left: 100px !important` |
+
+
+## Paddings
+
+#### Padding top
+
+| Class Name | Css declaration |
+|---|---|
+| `.pt-0 `| `padding-top: 0 !important` |
+| `.pt-10` | `padding-top: 10px !important` |
+| `.pt-20` | `padding-top: 20px !important` |
+| `.pt-30` | `padding-top: 30px !important` |
+| `.pt-40` | `padding-top: 40px !important` |
+| `.pt-50` | `padding-top: 50px !important` |
+| `.pt-60` | `padding-top: 60px !important` |
+| `.pt-70` | `padding-top: 70px !important` |
+| `.pt-80` | `padding-top: 80px !important` |
+| `.pt-90` | `padding-top: 90px !important` |
+| `.pt-10` | ` padding-top: 100px !important` |
+
+#### Padding right
+
+| Class Name | Css declaration |
+|---|---|
+| `.pr-0 `| `padding-right: 0 !important` |
+| `.pr-10` | `padding-right: 10px !important` |
+| `.pr-20` | `padding-right: 20px !important` |
+| `.pr-30` | `padding-right: 30px !important` |
+| `.pr-40` | `padding-right: 40px !important` |
+| `.pr-50` | `padding-right: 50px !important` |
+| `.pr-60` | `padding-right: 60px !important` |
+| `.pr-70` | `padding-right: 70px !important` |
+| `.pr-80` | `padding-right: 80px !important` |
+| `.pr-90` | `padding-right: 90px !important` |
+| `.pr-10` | ` padding-right: 100px !important` |
+
+
+#### Padding bottom
+
+| Class Name | Css declaration |
+|---|---|
+| `.pb-0 `| `padding-bottom: 0 !important` |
+| `.pb-10` | `padding-bottom: 10px !important` |
+| `.pb-20` | `padding-bottom: 20px !important` |
+| `.pb-30` | `padding-bottom: 30px !important` |
+| `.pb-40` | `padding-bottom: 40px !important` |
+| `.pb-50` | `padding-bottom: 50px !important` |
+| `.pb-60` | `padding-bottom: 60px !important` |
+| `.pb-70` | `padding-bottom: 70px !important` |
+| `.pb-80` | `padding-bottom: 80px !important` |
+| `.pb-90` | `padding-bottom: 90px !important` |
+| `.pb-10` | ` padding-bottom: 100px !important` |
+
+
+#### Padding left
+
+| Class Name | Css declaration |
+|---|---|
+| `.pl-0 `| `padding-left: 0 !important` |
+| `.pl-10` | `padding-left: 10px !important` |
+| `.pl-20` | `padding-left: 20px !important` |
+| `.pl-30` | `padding-left: 30px !important` |
+| `.pl-40` | `padding-left: 40px !important` |
+| `.pl-50` | `padding-left: 50px !important` |
+| `.pl-60` | `padding-left: 60px !important` |
+| `.pl-70` | `padding-left: 70px !important` |
+| `.pl-80` | `padding-left: 80px !important` |
+| `.pl-90` | `padding-left: 90px !important` |
+| `.pl-10` | ` padding-left: 100px !important` |

@@ -43,7 +43,7 @@ Classess
 ##### Margin top
 
 | Class Name | Css declaration |
-|--|--|
+|---|---|
 | mt-0 | margin-top: 0 !important |
 | mt-10 | margin-top: 10px !important |
 | mt-20 | margin-top: 20px !important |

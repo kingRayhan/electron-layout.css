@@ -2,15 +2,15 @@
 #### v1.0.3
 
 
-#### CDN
+## CDN
 
 
-**CDN 1**
+CDN 1:
 ```
 https://kingrayhan.github.io/electron-layout.css/electron-layout.min.css
 ```
 
-**CDN 2**
+CDN 2:
 ```
 https://cdn.rawgit.com/kingRayhan/electron-layout.css/master/electron-layout.min.css
 ```

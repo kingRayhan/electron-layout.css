@@ -7,12 +7,12 @@
 
 CDN 1:
 ```
-https://kingrayhan.github.io/electron-layout.css/electron-layout.min.css
+https://kingrayhan.github.io/electron-layout.css/electron-layout.css
 ```
 
 CDN 2:
 ```
-https://cdn.rawgit.com/kingRayhan/electron-layout.css/master/electron-layout.min.css
+https://cdn.rawgit.com/kingRayhan/electron-layout.css/master/electron-layout.css
 ```
 
 

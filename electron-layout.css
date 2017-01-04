@@ -248,20 +248,22 @@
 
 /**
  * Clearfix
+ * @source https://css-tricks.com/snippets/css/clear-fix/ 
  */
-.clearfix:before,
+/* slightly enhanced, universal clearfix hack */
 .clearfix:after {
-  content: "";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.clearfix {
-  zoom: 1; /* ie 6/7 */
-}
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
 
 /**
  * border

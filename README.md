@@ -63,6 +63,11 @@ Classess
 | `.text-light `| Make text lighter | `{ font-weight: light !important;  }`  |
 
 
+## Clear Fix
+
+`.clearfix` - lear floated divisions (divs) without using structural markup
+
+
 ## Border
 
 
